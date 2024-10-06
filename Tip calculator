@@ -1,0 +1,14 @@
+# simple python  program to calculate tip and split bill between n number of people
+
+bill = float(input("Enter bill amount : $"))
+tot_tip = int(input("Enter the percentage of tip you would like to give [5 - 20] : "))
+people = int(input("Enter no of people you would like to split with : "))
+
+while tot_tip in [5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]:
+    tot_bill = bill + (bill * (tot_tip/100))
+    split = tot_bill/people
+    tot_split = "{:.2f}".format(split)
+    break
+
+print(f"Total bill with tip = ${tot_bill}")
+print(f"Split for each person = ${tot_split}")
