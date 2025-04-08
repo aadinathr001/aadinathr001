@@ -3,3 +3,4 @@
 🎓 B.Tech CSE(AI&ML) | 🚀 Aspiring AI Engineer  
 🛠️ Projects:
 - 🔗 [Phishing URL Detection Web App](https://github.com/aadinathr001/Phishing_url_detection)
+- 🔗 [Ai assistant](https://github.com/aadinathr001/AI_assistant)
