@@ -57,9 +57,7 @@
   <img height="160" src="https://github-profile-trophy.vercel.app/?username=aadinathr001&theme=radical&no-frame=true&margin-w=4&column=4" />
 </div>
 
-<div align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/snake.svg?github_user=aadinathr001&color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1ff,#4b91ff,#217aff" alt="Contribution Snake" />
-</div>
+
 
 ---
 
