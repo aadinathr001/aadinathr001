@@ -52,10 +52,7 @@
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aadinathr001&theme=radical&hide_border=true" />
 </div>
 
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadinathr001&theme=radical&hide_border=true&layout=compact" />
-  <img height="160" src="https://github-profile-trophy.vercel.app/?username=aadinathr001&theme=radical&no-frame=true&margin-w=4&column=4" />
-</div>
+
 
 
 
