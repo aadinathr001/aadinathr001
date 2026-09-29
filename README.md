@@ -19,10 +19,10 @@
 | :--- | :--- | :--- | :--- |
 | [**Medical Risk System**](https://github.com/aadinathr001/medical-system) | Real-time patient risk monitoring dashboard with analytics | Next.js · SQLite · Recharts |               |
 | [**Phishing Detection**](https://github.com/aadinathr001/Phishing_url_detection) | AI-powered URL classifier to identify and block phishing attacks | Python · TensorFlow · Flask |               |
-| [**AI Assistant**](https://github.com/aadinathr001/AI_assistant) | Intelligent personal assistant powered by LLM APIs | Python · OpenAI · Gemini API |               |
+| [**AI Assistant**](https://github.com/aadinathr001/AI_assistant) | Intelligent personal assistant powered by LLM APIs | Python · OpenAI · Groq API |  [**Click here**](https://simple-chatbot-kkxd.onrender.com
+)              |
 | [**Weather Web App**](https://github.com/aadinathr001/weather-app) | Simple weather app on Weather API | Python · Flask  · Render · HTML5|  [**Click here**](https://weather-app-gtvc.onrender.com/)             |
 ---
-
 ## 💻 Tech Stack
 
 **Languages**
