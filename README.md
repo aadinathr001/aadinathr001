@@ -17,6 +17,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
+| [**FrameMind**](https://github.com/aadinathr001/FrameMind) |  | Python · FastAPI  · Tailwind CSS · Node.js|
 | [**Medical Risk System**](https://github.com/aadinathr001/medical-system) | Real-time patient risk monitoring dashboard with analytics | Next.js · SQLite · Recharts |
 | [**Phishing Detection**](https://github.com/aadinathr001/Phishing_url_detection) | AI-powered URL classifier to identify and block phishing attacks | Python · TensorFlow · Flask |
 | [**AI Assistant**](https://github.com/aadinathr001/Simple-Chatbot) | Intelligent personal assistant powered by LLM APIs | Python · OpenAI · Groq API | 
