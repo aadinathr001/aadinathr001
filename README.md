@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/aadinathr)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aadinath.r2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFF00?logo=gmail&logoColor=black&style=flat-square)](https://aadinathr001.github.io/Portfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFF00?logoColor=black&style=flat-square)](https://aadinathr001.github.io/Portfolio-Website/)
 
 
 </div>
