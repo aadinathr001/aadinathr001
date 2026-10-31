@@ -17,7 +17,7 @@
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| [**AuditSum**](https://github.com/aadinathr001/AuditSum) |  | |
+| [**AuditSum**](https://github.com/aadinathr001/AuditSum) | RBAC governed LLM summarization service  | |
 | [**ResumeIQ**](https://github.com/aadinathr001/ResumeIQ) |  | |
 | [**HealthPing**](https://github.com/aadinathr001/HealthPing) |  | |
 | [**FrameMind**](https://github.com/aadinathr001/FrameMind) |  | Python · FastAPI  · Tailwind CSS · Node.js|
