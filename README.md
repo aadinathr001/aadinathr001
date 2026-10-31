@@ -8,6 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/aadinathr)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aadinath.r2004@gmail.com)
+[![Website](Portfolio)](https://aadinathr001.github.io/Portfolio-Website/)
+
 
 </div>
 
