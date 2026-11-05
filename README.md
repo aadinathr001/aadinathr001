@@ -70,15 +70,20 @@ Building AI-powered applications, intelligent systems, and backend solutions thr
 
 <div align="center">
 
-<div align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aadinathr001&show_icons=true&hide_border=true&theme=default" />
-</div>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=aadinathr001&show_icons=true&hide_border=true&theme=default" />
 
-
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aadinathr001&hide_border=true&theme=default" />
+<img height="165" src="https://streak-stats.demolab.com/?user=aadinathr001&hide_border=true&theme=default" />
 
 </div>
+
+---
+
+## Contribution Activity
+
+<!-- BEGIN ACTIVITY-GRAPH -->
+<!-- END ACTIVITY-GRAPH -->
+
+---
 
 <div align="center">
 
