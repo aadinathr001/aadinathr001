@@ -8,7 +8,7 @@ Building AI-powered applications, intelligent systems, and backend solutions thr
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadinathr)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadinath.r2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://aadinathr001.github.io/Portfolio-Website/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FFFF00?logoColor=black&style=flat-square)](https://aadinathr001.github.io/Portfolio-Website/)
 
 </div>
 
