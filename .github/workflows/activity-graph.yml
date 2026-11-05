@@ -1,4 +1,4 @@
-name: Update Contribution Graph
+name: Activity Graph
 
 on:
   schedule:
@@ -9,9 +9,8 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  activity-graph:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
       - uses: alexcerezo/activity-graph@v1
