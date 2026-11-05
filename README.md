@@ -70,7 +70,11 @@ Building AI-powered applications, intelligent systems, and backend solutions thr
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadinathr001&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+<div align="center">
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=aadinathr001&show_icons=true&hide_border=true&theme=default" />
+</div>
+
+
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aadinathr001&hide_border=true&theme=default" />
 
