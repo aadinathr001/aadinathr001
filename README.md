@@ -1,68 +1,83 @@
-<div align="center">
+ <div align="center">
 
 # AADINATH R
 
-**B.Tech CSE · AI & ML Specialization**
+**B.Tech CSE | Artificial Intelligence & Machine Learning**
 
-*Building intelligent systems at the intersection of AI, ML, and modern software architecture*
+Building AI-powered applications, intelligent systems, and backend solutions through practical software engineering.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/aadinathr)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:aadinath.r2004@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FFFF00?logoColor=black&style=flat-square)](https://aadinathr001.github.io/Portfolio-Website/)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aadinathr)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aadinath.r2004@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-334155?style=flat-square&logo=googlechrome&logoColor=white)](https://aadinathr001.github.io/Portfolio-Website/)
 
 </div>
 
 ---
 
-## 🛠️ Featured Projects
+## Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| [**AuditSum**](https://github.com/aadinathr001/AuditSum) | RBAC governed LLM summarization service  | FastAPI · SQLAlchemy · PosgreSQL · Python |
-| [**ResumeIQ**](https://github.com/aadinathr001/ResumeIQ) | Resume & Job Matching Engine | TypeScript · React · PostgreSQL · Groq |
-| [**HealthPing**](https://github.com/aadinathr001/HealthPing) | API Health Monitor | TypeScript · Node.js · REST API |
-| [**FrameMind**](https://github.com/aadinathr001/FrameMind) | YouTube Video Q&A & Study Notebook | Python · FastAPI · Tailwind CSS · Node.js · Groq|
-| [**Medical Risk System**](https://github.com/aadinathr001/medical-system) | Real-time patient risk monitoring dashboard with analytics | Next.js · SQLite · Recharts |
-| [**Phishing Detection**](https://github.com/aadinathr001/Phishing_url_detection) | AI-powered URL classifier to identify and block phishing attacks | Python · TensorFlow · Flask |
-| [**AI Assistant**](https://github.com/aadinathr001/Simple-Chatbot) | Intelligent personal assistant powered by LLM APIs | Python · OpenAI · Groq API | 
-| [**Weather Web App**](https://github.com/aadinathr001/weather-app) | Simple weather app on Weather API | Python · Flask  · Render · HTML5| 
-| [**Paperlens**](https://github.com/aadinathr001/Paperlens) | Session based RAG research paper analysis tool | Python · FastAPI  · Render · JavaScript|
----
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
-
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat-square&logo=render&logoColor=white)
+| Project | Description | Technologies |
+|:---|:---|:---|
+| [**AuditSum**](https://github.com/aadinathr001/AuditSum) | RBAC-governed LLM document summarization service | Python · FastAPI · SQLAlchemy · PostgreSQL |
+| [**ResumeIQ**](https://github.com/aadinathr001/ResumeIQ) | Resume analysis and job description matching engine | TypeScript · React · PostgreSQL · Groq |
+| [**FrameMind**](https://github.com/aadinathr001/FrameMind) | YouTube video Q&A and AI-powered study notebook | Python · FastAPI · Tailwind CSS · Groq |
+| [**Paperlens**](https://github.com/aadinathr001/Paperlens) | Session-based RAG application for research paper analysis | Python · FastAPI · JavaScript |
+| [**HealthPing**](https://github.com/aadinathr001/HealthPing) | API health monitoring application | TypeScript · Node.js · REST APIs |
+| [**Medical Risk System**](https://github.com/aadinathr001/medical-system) | Patient risk monitoring dashboard with analytics | Next.js · SQLite · Recharts |
+| [**Phishing Detection**](https://github.com/aadinathr001/Phishing_url_detection) | Machine learning-based phishing URL classification | Python · TensorFlow · Flask |
+| [**AI Assistant**](https://github.com/aadinathr001/Simple-Chatbot) | Personal AI assistant integrating LLM APIs | Python · OpenAI API · Groq API |
+| [**Weather Web App**](https://github.com/aadinathr001/weather-app) | Weather application using external API integration | Python · Flask · HTML5 |
 
 ---
 
-## 📊 GitHub Stats
+## Technical Skills
+
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+**AI / ML & Generative AI**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102A43?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0F766E?style=flat-square)
+![LLM Integration](https://img.shields.io/badge/LLM_API_Integration-475569?style=flat-square)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+**Backend & Databases**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+
+**Frontend & Development Tools**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## GitHub Statistics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=aadinathr001&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aadinathr001&theme=radical&hide_border=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=aadinathr001&show_icons=true&hide_border=true&theme=default&rank_icon=github" />
+
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aadinathr001&hide_border=true&theme=default" />
+
 </div>
 
-
-
-
-
----
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=aadinathr001&color=64748b&style=flat-square&label=Profile+Views)
+
 </div>
